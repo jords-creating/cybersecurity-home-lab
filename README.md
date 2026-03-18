@@ -23,5 +23,10 @@ The goal of this lab is to build a safe practice environment where I can learn c
 - notes/
 - diagrams/
 
+- ## 📸 Lab Setup Evidence
+
+### VirtualBox Running Kali
+![VirtualBox Overview](VirtualBox%20Overview.JPG)
+
 ## Status
 In progress
