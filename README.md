@@ -28,7 +28,7 @@ The goal of this lab is to build a safe practice environment where I can learn c
 ### VirtualBox Running Kali
 ![VirtualBox Overview](VirtualBox%20Overview.JPG)
 
-### Terminal Access
+### Kali Terminal Access
 ![Terminal](terminal.jpg)
 
 ## Status
