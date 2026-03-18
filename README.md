@@ -29,7 +29,7 @@ The goal of this lab is to build a safe practice environment where I can learn c
 ![VirtualBox Overview](VirtualBox%20Overview.JPG)
 
 ### Kali Terminal Access
-<img src="kali terminal access.JPG" width="800">
+<img src="terminal.png" width="800">
 
 ## Status
 In progress
